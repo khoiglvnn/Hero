@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c8c35c3-ea21-4e8b-bc45-934fbc1e6d8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BillBoard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerCtrl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Creepy2Ctrl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraCtrl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LakeCheck.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyCtrl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AttackEnemyPatrolCtrl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BillBoard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AttackTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerCtrl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ParalaxCtrl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CreepyCtrl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CreepyCtrl2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creepy2Ctrl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyPatrolCtrl.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1grHKoN4kKfp9oxJiVDOGUl4XtD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c8c35c3-ea21-4e8b-bc45-934fbc1e6d8a" name="Default Changelist" comment="" />
+      <created>1598865733631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598865733631</updated>
+      <workItem from="1598865739558" duration="1076000" />
+      <workItem from="1598866834890" duration="183000" />
+      <workItem from="1598867024661" duration="390000" />
+      <workItem from="1598867425314" duration="252000" />
+      <workItem from="1598867881731" duration="241000" />
+      <workItem from="1598868136138" duration="61000" />
+      <workItem from="1598868202584" duration="28000" />
+      <workItem from="1598868401963" duration="15281000" />
+      <workItem from="1599106984768" duration="4292000" />
+      <workItem from="1599116463385" duration="4186000" />
+      <workItem from="1599222671809" duration="12168000" />
+      <workItem from="1599279040429" duration="772000" />
+      <workItem from="1599282347235" duration="20548000" />
+      <workItem from="1599377218590" duration="19639000" />
+      <workItem from="1599481149501" duration="8046000" />
+      <workItem from="1599500910548" duration="6269000" />
+      <workItem from="1599567765878" duration="2715000" />
+      <workItem from="1599648040843" duration="3033000" />
+      <workItem from="1600062412659" duration="1955000" />
+      <workItem from="1600064881997" duration="3939000" />
+      <workItem from="1600168337515" duration="13980000" />
+      <workItem from="1600185158043" duration="8550000" />
+      <workItem from="1600336587703" duration="49000" />
+      <workItem from="1600337033668" duration="2339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598868225387">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1598868225387" />
+    <state x="361" y="149" key="Rider.ProjectTemplateDialog.Size" timestamp="1599132368381">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="149" key="Rider.ProjectTemplateDialog.Size/0.0.1536.834@0.0.1536.834" timestamp="1599132368381" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1598866765946">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1598866765946" />
+  </component>
+</project>
